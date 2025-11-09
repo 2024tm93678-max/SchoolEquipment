@@ -1,0 +1,26 @@
+/* Global Styling Overrides */
+.container {
+    margin-top: 30px;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    color: #0d6efd !important;
+  }
+  
+  .nav-link {
+    font-weight: 500;
+  }
+  
+  .alert {
+    border-radius: 10px;
+  }
+  
+  .form-control {
+    border-radius: 8px;
+  }
+  
+  .shadow-sm {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
+  }
+  
